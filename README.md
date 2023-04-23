@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Brian Ebel @bcebel
-- 👀 I’m interested in 🎶 
-- 💞️ I’m looking to collaborate on web development.
+- 
+I’m interested in 🎶 
+I’m looking to collaborate on web development.
+
 - 📫 How to reach me bcebel@gmail.com
 
 <!---

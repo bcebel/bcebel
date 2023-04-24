@@ -1,8 +1,8 @@
-👋 Hi, I’m Brian Ebel @bcebel
+Brian Ebel
 
-I’m looking to collaborate on web development.
+Full Stack Web Developer
 
-📫 How to reach me 
+Reach me at:
 bcebel@gmail.com
 405 650 0063
 https://bcebel.github.io/BrianPortfolio/

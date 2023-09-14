@@ -1,6 +1,6 @@
 Brian Ebel
 
-🌱 Passionate about sustainable tech and the potential for positive environmental impact. Dreamer and creator in the world of biochar, AI and beyond. 🌍
+🌱 Passionate about sustainable tech and the potential for positive environmental impact. Dreamer and creator in the world of biochar, GIS, AI and beyond. 🌍
 
 🚀 Mastering the art of Object-Oriented Programming, with a stronghold in JavaScript as my core language. Venturing into diverse coding universes to broaden horizons and build innovative solutions.
 

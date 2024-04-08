@@ -1,12 +1,12 @@
-Brian Ebel
+👋 Hey there! I'm Brian Ebel, an Environmental Consultant with a passion for coding, currently making the exciting transition to pursue a tech career in Austin, TX.
 
-🌱 Passionate about sustainable tech and the potential for positive environmental impact. Dreamer and creator in the world of GIS, AI and beyond. 🌍
+🌱 With a Bachelor's degree in Environmental Science and a certificate in Full Stack Web Development, I bring a unique blend of environmental expertise and coding skills to the table.
 
-🚀 Mastering the art of Object-Oriented Programming, with a stronghold in JavaScript as my core language. Venturing into diverse coding universes to broaden horizons and build innovative solutions.
+💼 In my previous roles, I've excelled in environmental consulting, laboratory operations, and workforce management. From conducting lead content testing at Quantem Laboratories to managing solar panel distribution initiatives at Greentech Renewables, I've honed my analytical skills and problem-solving abilities.
 
-🔧 Currently taking the Microsoft Certified: Azure AI Engineer Associate course through GenSpark & Microsoft.  It uses Azure, Python & C#/.Net and has been excellent so far.  Can't wait for that certification!!
+🚀 Now, I'm diving headfirst into the world of tech, eager to contribute to Austin's thriving tech community. With a strong foundation in database administration, proficiency in coding languages like Express.js and Microsoft SQL Server, and a commitment to sustainability, I'm ready to tackle new challenges and make a positive impact.
 
-Let's connect!
+🔗 Let's connect and collaborate on exciting projects!
 
 Reach me at:
 bcebel@gmail.com

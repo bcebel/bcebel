@@ -1,17 +1,22 @@
-👋 Hey there! I'm Brian Ebel, an Environmental Consultant with a passion for coding, currently making the exciting transition to pursue a tech career in Austin, TX.
 
-🌱 With a Bachelor's degree in Environmental Science and a certificate in Full Stack Web Development, I bring a unique blend of environmental expertise and coding skills to the table.
+👋 Hi there! 
 
-💼 In my previous roles, I've excelled in environmental consulting, laboratory operations, and workforce management. From conducting lead content testing at Quantem Laboratories to managing solar panel distribution initiatives at Greentech Renewables, I've honed my analytical skills and problem-solving abilities.
+I'm Brian Ebel, I'm a passionate full stack developer and cloud enthusiast.
 
-🚀 Now, I'm diving headfirst into the world of tech, eager to contribute to Austin's thriving tech community. With a strong foundation in database administration, proficiency in coding languages like Express.js and Microsoft SQL Server, and a commitment to sustainability, I'm ready to tackle new challenges and make a positive impact.
+💻 Tech Skills:
 
-🔗 Let's connect and collaborate on exciting projects!
+Full Stack Development: Graduate of 24 Week Full Stack Coding Bootcamp from edX and University of New Hampshire with a strong foundation in JavaScript and related technologies.
+
+Cloud Expertise: Certified Azure AI Engineering Associate and currently deepening my knowledge with a Google Cloud Database Engineer classes.
+
+Web & Mobile App Development: Experience with JavaScript frameworks and libraries, including React and Expo.
+
+🌐 I'm always excited to learn new technologies and take on challenging projects. Let's build something amazing together!
 
 Reach me at:
 bcebel@gmail.com
 (405) 650-0063
-https://bcebel.github.io/BrianPortfolio/
+https://bcebel.github.io
 https://www.linkedin.com/in/brian-ebel/
 
 
